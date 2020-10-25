@@ -1,7 +1,7 @@
 # CoronaVirus Tracker for India (Covid19)
 
 ## Features
-- Sit back and relax - the coronavirus updates will come to you.
+- the coronavirus updates are given.
 - Get Slack notifications 
   -  New Corona Virus cases happening in India
   -  How many Indian nationals have Corona Virus per State?
